@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<zww> 
+  <obj name="ospf_proc" attr_cnt="2"> 
+    <attr id="1" index="y"/> 
+    <attr id="2" index="n"/> 
+  </obj> 
+  <obj name="ospf_area" attr_cnt="3"> 
+    <attr id="1" index="y"/> 
+    <attr id="2" index="y"/> 
+    <attr id="3" index="n"/> 
+  </obj> 
+</zww> 
