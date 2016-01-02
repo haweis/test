@@ -22,9 +22,6 @@ for child in root:
         print "|--->", child[loop].attrib["id"], ":", child[loop].attrib["index"]
 print 
 
-
-
-
 print '*'*20, "二. interater", "*"*20
 for obj in root.iter('obj'):
     print obj.attrib["name"], "(%d)"% int(obj.attrib["attr_cnt"])
